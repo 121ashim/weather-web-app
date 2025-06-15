@@ -1,1 +1,1 @@
-# weather-web-app
+# weather-web-app using open weather API
